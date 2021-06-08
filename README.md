@@ -12,10 +12,11 @@ Participants in the courses are employees of the client companies, i.e. they wor
  
 ## Methods used: 
 
-Database Schema Planning
-Entity Relationship Diagram Construction
-Database Implementation
-SQL Query creation, joins, nested queries, etc
+- Database Schema Planning
+- Entity Relationship Diagram Construction
+- Database Implementation
+- SQL Query creation, modifiying, Inserting the data into the tables. 
+- joins, nested queries, etc
 
-## Technologies used
+## Technologies used:
 MS SQL Management Studio 
