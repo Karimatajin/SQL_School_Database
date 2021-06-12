@@ -21,3 +21,7 @@ Participants in the courses are employees of the client companies, i.e. they wor
 
 ## Technologies used:
 MS SQL Management Studio 
+
+# Entiy Relational Diagram: 
+
+![Capture](https://user-images.githubusercontent.com/43942029/121776581-ad9ad500-cb5b-11eb-98a4-115cc371eadf.PNG)
