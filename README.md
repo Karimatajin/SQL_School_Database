@@ -1,4 +1,4 @@
-# Python and MySQL:
+# Python and Structred Query Language:
 
 
 # Building a Relational Database From Scratch using Microsoft SQL Server Management Studio 
