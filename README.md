@@ -1,4 +1,4 @@
-# SQL_School_Database
+# Python and MySQL:
 
 
 # Building a Relational Database From Scratch using Microsoft SQL Server Management Studio 
@@ -21,6 +21,9 @@ Participants in the courses are employees of the client companies, i.e. they wor
 
 ## Technologies used:
 MS SQL Management Studio 
+MySQL
+Jupyter notebook
+
 
 # Entiy Relational Diagram: 
 
